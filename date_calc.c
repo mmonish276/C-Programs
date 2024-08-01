@@ -13,7 +13,7 @@ static int daytab_nonleap[13] =
 
 static int daytab_leap[13] =
 {
-    0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31
+    0, 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31    //days per month in leap yr
 };
  
 int main()
