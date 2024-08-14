@@ -57,7 +57,7 @@ Ensure you have the following installed:
      ```
 # Sources
 
-For further reading and a comprehensive understanding of C programming, refer to PDF below. Most programs in this repository were made with the help of lessons and exercises in this textbook.
+For further reading and a comprehensive understanding of C programming, refer to the PDF below. Most programs in this repository were made with the help of lessons and exercises in this textbook.
 
 - [The C Programming Language (Kernighan & Ritchie)](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20(Kernighan%20Ritchie).pdf)
  
